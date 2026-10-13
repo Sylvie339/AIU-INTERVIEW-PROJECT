@@ -1,2 +1,0 @@
-# AIU-INTERVIEW-PROJECT
-AIU创智部二面任务总结
